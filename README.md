@@ -1,3 +1,3 @@
-# Target Number Game
+# An introduction to Genetic Algorithms
 
-Genetic algorithm implementation in order to solve the 'Target Number Game'.
+Problem solved: 'Target Number Game'
