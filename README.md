@@ -61,7 +61,7 @@
 <p style="margin-left: 5px"> <b>Route design:</b>
 <br>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Route.png" style="width: 350px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Route.png" width="350"/></center>
 <br>
 <br>
 <b>Scheduling planner:</b>
@@ -96,7 +96,7 @@ Neural network parameter learning:
 <br>
 <center>Structure Learning of Bayesian Networks (DAG)
 <br>
-<img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/BN.png" alt="Drawing" style="width: 300px;"/>
+<img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/BN.png" alt="Drawing" width="300""/>
 <br>
 [3] Structure learning of Bayesian networks by genetic algorithms. Larrañaga, Poza, Yurramendi, Murga and Kuijpers (1996)
 </center>
@@ -109,7 +109,7 @@ Neural network parameter learning:
 A notable real-life application of Genetic Algorithms (GA) lead to the creation of a very specific anthena by NASA:
 <br>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/nasa.png" alt="Drawing" style="width: 500px;"/>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/nasa.png" alt="Drawing" width="500""/>
 <br>
 [4] Automated antenna design with evolutionary algorithms. Hornby, Gregory, Al Globus, Derek Linden, and Jason Lohn (2006)
 </center>
@@ -146,7 +146,7 @@ An <b> optimization problem </b> consists of maximizing (or equivalently, minimi
 <a id='globallocal'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>2.1. Global vs local optima</b></p>
 <p style="margin-left: 20px"> <a href='#top'> Return to top </a></p>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/LocalGlobal.png" alt="Drawing" style="width: 620px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/LocalGlobal.png" alt="Drawing" width="620"/></center>
 <br>
 <br>
 <a id='searchspace'></a>
@@ -162,7 +162,7 @@ An <b> optimization problem </b> consists of maximizing (or equivalently, minimi
 <br>
 · Deceptive: searching with gradient type algorithm can be deceptive</p>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Searchspace.png" alt="Drawing" style="width: 500px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Searchspace.png" alt="Drawing" width="500""/></center>
 <br>
 <p style="margin-left: 20px">In general, Genetic Algorithms (GA) won't be able to solve every problem. No free lunch theorem (NFL): There is no single algorithm that is superior at solving problems, to all other algorithms in general. Evolutionary algorithms are efficient at solving discontinuous, non-differentiable, multimodal problems, with noise and unconventional search spaces. On the contrary, its effectiveness decreases when facing simpler problems for which specific algorithms have been developed in their resolution.<br>
 <br>
@@ -174,7 +174,7 @@ An <b> optimization problem </b> consists of maximizing (or equivalently, minimi
 <p style="margin-left: 20px">The solution space, in general, can be different from the search space.  This is very common in Evolutionary computation where we work with a codification of the solution as symbols or programs in the search space.
 Therefore, codification and search space setup, will play a key role in the success of the algorithm. If the search space is larger than the solution space, we will find invalid solutions. If the solution space is larger than the search space, it might happen that we don't find the optimal solution.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Encoding.png" alt="Drawing" style="width: 500px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Encoding.png" alt="Drawing" width="500"/></center>
 
 <br>
 <a id='ambiguityredundancy'></a>
@@ -186,7 +186,7 @@ Different encodings can code the same solution. When this happens, there are dif
 <p style="margin-left: 20px"><b>Ambiguity:</b><br>
 Different solutions can be encoded by the same symbols.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Redundancy.png" alt="Drawing" style="width: 200px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Redundancy.png" alt="Drawing" width="200"/></center>
 
 <a id='explorationexplotation'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>2.5. Exploration vs Exploitation </b></p>
@@ -194,11 +194,11 @@ Different solutions can be encoded by the same symbols.
 <p style="margin-left: 20px"><b>Exploitation (local search):</b><br>Consists of sampling a limited (but already identified as promising) region of the search space with the hope of improving an existing solution. This operation, then, tries to intensify (refine) the search in the neighbourhood of the existing solution.
 <br>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Exploitation.png" alt="Drawing" style="width: 150px;"/></center>
+<img align="center" src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Exploitation.png" alt="Drawing" width="150""/>
 <br>
 <p style="margin-left: 20px"><b>Exploration (global search):</b><br>Consists of sampling a much larger portion of the search space with the hope of finding other promising solutions that are yet to be refined. This operation, tries to diversify the search in order to avoid local optimums.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Exploration.png" alt="Drawing" style="width: 180px;"/></center>
+<img align="center" src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Exploration.png" alt="Drawing" width="180"/>
 </p>
 <br>
 <p style="margin-left: 20px">A good search algorithm will have to keep a balance in order to explore a large search space at the beginning and narrow down the search in final iterations.
