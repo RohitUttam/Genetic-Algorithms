@@ -194,11 +194,11 @@ Different solutions can be encoded by the same symbols.
 <p style="margin-left: 20px"><b>Exploitation (local search):</b><br>Consists of sampling a limited (but already identified as promising) region of the search space with the hope of improving an existing solution. This operation, then, tries to intensify (refine) the search in the neighbourhood of the existing solution.
 <br>
 <br>
-<img align="center" src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Exploitation.png" alt="Drawing" width="150""/>
+<p  align="center" ><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Exploitation.png" alt="Drawing" width="150""/></p>
 <br>
-<p style="margin-left: 20px"><b>Exploration (global search):</b><br>Consists of sampling a much larger portion of the search space with the hope of finding other promising solutions that are yet to be refined. This operation, tries to diversify the search in order to avoid local optimums.
+<p style="margin-left: 20px"><b>Exploration (global search):</b><br>Consists of sampling a much larger portion of the search space with the hope of finding other promising solutions that are yet to be refined. This operation, tries to diversify the search in order to avoid local optimums.</p>
 <br>
-<img align="center" src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Exploration.png" alt="Drawing" width="180"/>
+<p  align="center" ><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Exploration.png" alt="Drawing" width="180"/>
 </p>
 <br>
 <p style="margin-left: 20px">A good search algorithm will have to keep a balance in order to explore a large search space at the beginning and narrow down the search in final iterations.
