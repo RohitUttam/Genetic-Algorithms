@@ -84,11 +84,11 @@
 <br>
 <center>Neural network structure learning:
 <br>
-<img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/NN_structure.png" alt="Drawing" style="width: 550px;"/>
+<img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/NN_structure.png" alt="Drawing" width=550"/>
 <br>
 Neural network parameter learning:
 <br>
-<img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/NN_param.png" alt="Drawing" style="width: 550px;"/>
+<img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/NN_param.png" alt="Drawing" width=550"/>
 <br>
 [2] Cooperative binary-real coded genetic algorithms for generating and adapting artificial neural networks. Barrios et al. (2003)</center>
 <br>
