@@ -61,13 +61,13 @@
 <p style="margin-left: 5px"> <b>Route design:</b>
 <br>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Route.png" width="350"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Route.png" width="350"/></p>
 <br>
 <br>
 <b>Scheduling planner:</b>
 <br>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/ScheduleOpt.png" alt="Drawing" style="width: 600px;"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/ScheduleOpt.png" alt="Drawing" style="width: 600px;"/></center></p>
 <br>
 <br>
 <b>Feature selection:</b>
@@ -237,16 +237,16 @@ The trade-off criteria for deciding whether to use a heuristic for solving a giv
  <br>
 They are increasingly used in intermediate and large search space. In optimization complexity terms, they are often used to solve NP Problems and large combinatorial problems in P too.
 <br>    
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/complexity.png" alt="Drawing" style="width: 300px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/complexity.png" alt="Drawing" width="300"/></center>
 
 <br> 
 <br> 
 <br> 
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/MathProg.png" alt="Drawing" style="width: 780px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/MathProg.png" alt="Drawing" width="780"/></center>
 
 </p>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Metaheuristic.png" alt="Drawing" style="width: 680px;"/></p></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Metaheuristic.png" alt="Drawing" width="680"/></p></center>
 
 
 
@@ -281,7 +281,7 @@ It involves the transfer of the genetic code of each individual to their offspri
 <b>Population</b> 
 <br>The set of points in the search space or individuals (possible solutions to the problem) with which a GA works at a given moment in the evolution process.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Population2.png" alt="Drawing" style="width: 400px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Population2.png" alt="Drawing" width="400"/></center>
 <br>
 <p style="margin-left: 20px"><b>Chromosomes (individual)</b><br> 
 A chromosome is usually identified as an individual in Genetic Algorithms, although in nature, an individual consists of several chromosomes. Individuals and species can be seen as a duality of their genetic code, the genotype, and their way of expressing themselves with respect to the physical world, the phenotype. The genotype offers the possibility of storing the accumulated experience, acquired from historical information.<br>
@@ -290,11 +290,11 @@ A chromosome is usually identified as an individual in Genetic Algorithms, altho
 <b>Phenotype</b><br> The actual physical representation of the chromosome (Solution space).
 <p style="margin-left: 20px"><b>Genes</b><br> Set of parameters that represent the individuals that make up a population. Each gene represents a position in the chain.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Individual2.png" alt="Drawing" style="width: 400px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Individual2.png" alt="Drawing" width="400"/></center>
 <br>
 <p style="margin-left: 20px"><b>Allele</b><br>  Possible values of each gene (symbols). The number of alleles is equal to the cardinality of the alphabet used (m).
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Gene2.png" alt="Drawing" style="width: 180px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Gene2.png" alt="Drawing" width="180"/></center>
 <br>
 <a id='Lifecycle'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>4.2. Evolutionary lifecycle</b></p>
@@ -308,7 +308,7 @@ A chromosome is usually identified as an individual in Genetic Algorithms, altho
 <p style="margin-left: 20px; font-size: 1.4em"> <b>4.3. Pros and Cons</b></p>
 <p style="margin-left: 20px"> <a href='#top'> Return to top </a></p>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/ProsCons.png" alt="Drawing" style="width: 400px;"/></center>
+<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/ProsCons.png" alt="Drawing" width="400"/></center>
 <br>
 
 
