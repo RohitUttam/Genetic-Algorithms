@@ -41,14 +41,7 @@
 <br>
 <a href='#Biblio'> Bibliography </a>
 <br>
-<br>
-<br>
-<br>
-<a href=https://github.com/RohitUttam/Genetic-Algorithms/blob/master/notebooks/GeneticAlgorithms.ipynb> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="width: 35px;"/> &nbsp&nbspNotebook
-</a>
-<br>
-<br>
-<a href=https://github.com/RohitUttam/Genetic-Algorithms/tree/master/src><img src="https://image.flaticon.com/icons/png/512/54/54776.png" style="width: 25px;"/> &nbsp Source code</a>
+
 <br>
 </p>
 
