@@ -5,7 +5,7 @@
 <dl>
 <br>
 <br>
-<center><b><span style="font-size:3em"> Introduction to Genetic Algorithms</b></center>
+<p align="center"><b><span style="font-size:3em"> Introduction to Genetic Algorithms</b></p>
 <hr style="height:2px;border-width:0;color:#bfc6c7;background-color:#bfc6c7;width:70%"></hr>
 <br>
 <a id='top'></a>
@@ -67,22 +67,22 @@
 <b>Scheduling planner:</b>
 <br>
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/ScheduleOpt.png" alt="Drawing" style="width: 600px;"/></center></p>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/ScheduleOpt.png" alt="Drawing" width="600"/></p>
 <br>
 <br>
 <b>Feature selection:</b>
 <br>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/FeatureSelection.png" alt="Drawing" style="width: 550px;"/>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/FeatureSelection.png" alt="Drawing" width="550"/>
 <br>
-[1] Genetic algorithms as a strategy for feature selection. Leardi, Riccardo, R. Boggia, and M. Terrile (1992)}</center>
+[1] Genetic algorithms as a strategy for feature selection. Leardi, Riccardo, R. Boggia, and M. Terrile (1992)}</p>
 <br>
 <br>
 <b>Building graph structures:</b>
 <br>
 <br>
 <br>
-<center>Neural network structure learning:
+<p align="center">Neural network structure learning:
 <br>
 <img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/NN_structure.png" alt="Drawing" width="550"/>
 <br>
@@ -90,16 +90,16 @@ Neural network parameter learning:
 <br>
 <img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/NN_param.png" alt="Drawing" width="550"/>
 <br>
-[2] Cooperative binary-real coded genetic algorithms for generating and adapting artificial neural networks. Barrios et al. (2003)</center>
+[2] Cooperative binary-real coded genetic algorithms for generating and adapting artificial neural networks. Barrios et al. (2003)</p>
 <br>
 <br>
 <br>
-<center>Structure Learning of Bayesian Networks (DAG)
+<p align="center">Structure Learning of Bayesian Networks (DAG)
 <br>
 <img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/BN.png" alt="Drawing" width="300""/>
 <br>
 [3] Structure learning of Bayesian networks by genetic algorithms. Larrañaga, Poza, Yurramendi, Murga and Kuijpers (1996)
-</center>
+</p>
 <br>
 <br>
 <br>
@@ -109,10 +109,10 @@ Neural network parameter learning:
 A notable real-life application of Genetic Algorithms (GA) lead to the creation of a very specific anthena by NASA:
 <br>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/nasa.png" alt="Drawing" width="500""/>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/nasa.png" alt="Drawing" width="500""/>
 <br>
 [4] Automated antenna design with evolutionary algorithms. Hornby, Gregory, Al Globus, Derek Linden, and Jason Lohn (2006)
-</center>
+</p>
 </p>
 
 
@@ -136,17 +136,17 @@ An <b> optimization problem </b> consists of maximizing (or equivalently, minimi
 <br>
 <br>
 <br>
-<center>
+<p align="center">
 <img src="https://latex.codecogs.com/gif.latex?\max_{x}f(x)&space;\quad&space;(\textrm{or}\min_{x}f(x))" title="\max_{x}f(x) \quad (\textrm{or}\min_{x}f(x))" />
 <br>
 <br>
 <img src="https://latex.codecogs.com/gif.latex?subject\hspace{0.1cm}to\hspace{0.1cm}g_i(x)\leq0&space;\hspace{0.1cm}&space;\forall{i}" title="subject\hspace{0.1cm}to\hspace{0.1cm}g_i(x)\leq0 \hspace{0.1cm} \forall{i}" />
-</center><br>
+</p><br>
 <br>
 <a id='globallocal'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>2.1. Global vs local optima</b></p>
 <p style="margin-left: 20px"> <a href='#top'> Return to top </a></p>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/LocalGlobal.png" alt="Drawing" width="620"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/LocalGlobal.png" alt="Drawing" width="620"/></p>
 <br>
 <br>
 <a id='searchspace'></a>
@@ -162,7 +162,7 @@ An <b> optimization problem </b> consists of maximizing (or equivalently, minimi
 <br>
 · Deceptive: searching with gradient type algorithm can be deceptive</p>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Searchspace.png" alt="Drawing" width="500""/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Searchspace.png" alt="Drawing" width="500""/></p>
 <br>
 <p style="margin-left: 20px">In general, Genetic Algorithms (GA) won't be able to solve every problem. No free lunch theorem (NFL): There is no single algorithm that is superior at solving problems, to all other algorithms in general. Evolutionary algorithms are efficient at solving discontinuous, non-differentiable, multimodal problems, with noise and unconventional search spaces. On the contrary, its effectiveness decreases when facing simpler problems for which specific algorithms have been developed in their resolution.<br>
 <br>
@@ -174,7 +174,7 @@ An <b> optimization problem </b> consists of maximizing (or equivalently, minimi
 <p style="margin-left: 20px">The solution space, in general, can be different from the search space.  This is very common in Evolutionary computation where we work with a codification of the solution as symbols or programs in the search space.
 Therefore, codification and search space setup, will play a key role in the success of the algorithm. If the search space is larger than the solution space, we will find invalid solutions. If the solution space is larger than the search space, it might happen that we don't find the optimal solution.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Encoding.png" alt="Drawing" width="500"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Encoding.png" alt="Drawing" width="500"/></p>
 
 <br>
 <a id='ambiguityredundancy'></a>
@@ -186,9 +186,9 @@ Different encodings can code the same solution. When this happens, there are dif
 <p style="margin-left: 20px"><b>Ambiguity:</b><br>
 Different solutions can be encoded by the same symbols.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Redundancy.png" alt="Drawing" width="200"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Redundancy.png" alt="Drawing" width="200"/></p>
 
-<a id='explorationexplotation'></a>
+<a id='explorationexploitation'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>2.5. Exploration vs Exploitation </b></p>
 <p style="margin-left: 20px"> <a href='#top'> Return to top </a></p>
 <p style="margin-left: 20px"><b>Exploitation (local search):</b><br>Consists of sampling a limited (but already identified as promising) region of the search space with the hope of improving an existing solution. This operation, then, tries to intensify (refine) the search in the neighbourhood of the existing solution.
@@ -237,16 +237,16 @@ The trade-off criteria for deciding whether to use a heuristic for solving a giv
  <br>
 They are increasingly used in intermediate and large search space. In optimization complexity terms, they are often used to solve NP Problems and large combinatorial problems in P too.
 <br>    
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/complexity.png" alt="Drawing" width="300"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/complexity.png" alt="Drawing" width="300"/></p>
 
 <br> 
 <br> 
 <br> 
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/MathProg.png" alt="Drawing" width="780"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/MathProg.png" alt="Drawing" width="780"/></p>
 
 </p>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Metaheuristic.png" alt="Drawing" width="680"/></p></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Metaheuristic.png" alt="Drawing" width="680"/></p></p>
 
 
 
@@ -281,7 +281,7 @@ It involves the transfer of the genetic code of each individual to their offspri
 <b>Population</b> 
 <br>The set of points in the search space or individuals (possible solutions to the problem) with which a GA works at a given moment in the evolution process.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Population2.png" alt="Drawing" width="400"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Population2.png" alt="Drawing" width="400"/></p>
 <br>
 <p style="margin-left: 20px"><b>Chromosomes (individual)</b><br> 
 A chromosome is usually identified as an individual in Genetic Algorithms, although in nature, an individual consists of several chromosomes. Individuals and species can be seen as a duality of their genetic code, the genotype, and their way of expressing themselves with respect to the physical world, the phenotype. The genotype offers the possibility of storing the accumulated experience, acquired from historical information.<br>
@@ -290,11 +290,11 @@ A chromosome is usually identified as an individual in Genetic Algorithms, altho
 <b>Phenotype</b><br> The actual physical representation of the chromosome (Solution space).
 <p style="margin-left: 20px"><b>Genes</b><br> Set of parameters that represent the individuals that make up a population. Each gene represents a position in the chain.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Individual2.png" alt="Drawing" width="400"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Individual2.png" alt="Drawing" width="400"/></p>
 <br>
 <p style="margin-left: 20px"><b>Allele</b><br>  Possible values of each gene (symbols). The number of alleles is equal to the cardinality of the alphabet used (m).
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Gene2.png" alt="Drawing" width="180"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Gene2.png" alt="Drawing" width="180"/></p>
 <br>
 <a id='Lifecycle'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>4.2. Evolutionary lifecycle</b></p>
@@ -302,13 +302,13 @@ A chromosome is usually identified as an individual in Genetic Algorithms, altho
 
 <p style="margin-left: 20px">As part of Evolutionary Algorithms, GA use mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection. Candidate solutions to the optimization problem play the role of individuals in a population, and the fitness function determines the quality of the solutions (see also loss function). Evolution of the population then takes place after the repeated application of the above operators.
 <br>
-<center><video style="display:block; margin: 0 auto;" class='center' src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/videos/Lifecycle2.mov" alt="test" controls loop width="600"></video></center>
+<p align="center"><video style="display:block; margin: 0 auto;" class='center' src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/videos/Lifecycle2.mov" alt="test" controls loop width="600"></video></p>
 <br>
 <a id='ProsCons'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>4.3. Pros and Cons</b></p>
 <p style="margin-left: 20px"> <a href='#top'> Return to top </a></p>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/ProsCons.png" alt="Drawing" width="400"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/ProsCons.png" alt="Drawing" width="400"/></p>
 <br>
 
 
@@ -329,7 +329,7 @@ A chromosome is usually identified as an individual in Genetic Algorithms, altho
 <br>
 <a href='#top'> Return to top </a>
 <br>
-<center><video style="display:block; margin: 0 auto;" class='center' src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/videos/TargetNumber.mov" alt="test" controls loop width="600"></video></center>
+<p align="center"><video style="display:block; margin: 0 auto;" class='center' src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/videos/TargetNumber.mov" alt="test" controls loop width="600"></video></p>
 <br>
 <br>
 <b>Problem statement:</b>
@@ -339,8 +339,8 @@ Note: To keep it simple the operations are completed in sequencial order (there 
 <br>
 <br>
 <br>
-<center>
-<img src="https://latex.codecogs.com/gif.latex?75\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;3\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;1\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;4\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;50\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;6\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;12\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;8\hspace{0.3cm}&space;=&space;\hspace{0.3cm}&space;target" title="75\hspace{0.3cm} \_ \hspace{0.3cm} 3\hspace{0.3cm} \_ \hspace{0.3cm} 1\hspace{0.3cm} \_ \hspace{0.3cm} 4\hspace{0.3cm} \_ \hspace{0.3cm} 50\hspace{0.3cm} \_ \hspace{0.3cm} 6\hspace{0.3cm} \_ \hspace{0.3cm} 12\hspace{0.3cm} \_ \hspace{0.3cm} 8\hspace{0.3cm} = \hspace{0.3cm} target" /></center>
+<p align="center">
+<img src="https://latex.codecogs.com/gif.latex?75\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;3\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;1\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;4\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;50\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;6\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;12\hspace{0.3cm}&space;\_&space;\hspace{0.3cm}&space;8\hspace{0.3cm}&space;=&space;\hspace{0.3cm}&space;target" title="75\hspace{0.3cm} \_ \hspace{0.3cm} 3\hspace{0.3cm} \_ \hspace{0.3cm} 1\hspace{0.3cm} \_ \hspace{0.3cm} 4\hspace{0.3cm} \_ \hspace{0.3cm} 50\hspace{0.3cm} \_ \hspace{0.3cm} 6\hspace{0.3cm} \_ \hspace{0.3cm} 12\hspace{0.3cm} \_ \hspace{0.3cm} 8\hspace{0.3cm} = \hspace{0.3cm} target" /></p>
 <br>
 
 <a id='Encoding'></a>
@@ -349,9 +349,9 @@ Note: To keep it simple the operations are completed in sequencial order (there 
 
 <p style="margin-left: 20px">In order to build genetic chains, an encoding of the solution onto the search space must be provided. A careful choice, will help the algorithm converge to the right solution and yield faster performance.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Encoding2.png" alt="Drawing" style="width: 300px;"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Encoding2.png" alt="Drawing" width="300"/></p>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/EncodingTarget.png" alt="Drawing" style="width: 350px;"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/EncodingTarget.png" alt="Drawing" width="350"/></p>
 <br>
 <br>
 <a id='Initialization'></a>
@@ -359,7 +359,7 @@ Note: To keep it simple the operations are completed in sequencial order (there 
 <p style="margin-left: 20px"> <a href='#top'> Return to top </a></p>
 <p style="margin-left: 20px">A population is initialized randomly in the first iteration (generation) of every simulation. The hyperparameter $P$, size of population has to be chosen before execution while $S$, size of individuals is fixed by the paramaters of the problem we are trying to optimize (in this case the numbers):
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Initialization.png" alt="Drawing" style="width: 500px;"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Initialization.png" alt="Drawing" width="500"/></p>
 <br>
 
 <a id='Fitness'></a>
@@ -368,7 +368,7 @@ Note: To keep it simple the operations are completed in sequencial order (there 
 
 <p style="margin-left: 20px"> At every timestep (generation), the population has to be evaluated through a $Fitness$ function. This $Fitness$ function will provide a score for each individual, indicating if the individual is a good candidate for the overall solution or not. Keep in mind that this function will me evaluated $PxG$ times, where $P$ is the size of population and $G$, the number of generations. So a Fitness function has to be fast and efficient.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Fitness.png" alt="Drawing" style="width: 500px;"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Fitness.png" alt="Drawing" width="500"/></p>
 <br>
 <a id='Selection'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>5.4. Selection</b></p>
@@ -378,7 +378,7 @@ Note: To keep it simple the operations are completed in sequencial order (there 
 The idea is for individuals with greater level of adaptation (i.e. fitness) to be chosen with higher probability, and therefore passing on genetic information to their offsprings.
 </p>
 
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Selection.png" alt="Drawing" style="width: 400px;"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Selection.png" alt="Drawing" width="400"/></p>
 
 <a id='Crossover'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>5.5. Crossover</b></p>
@@ -393,15 +393,15 @@ The idea is for individuals with greater level of adaptation (i.e. fitness) to b
 
 <br>
 <br>
-<center><img src="https://latex.codecogs.com/gif.latex?\text{Single&space;Point&space;Crossover}" title="\text{Single Point Crossover}" />
-<br><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/SinglePoint.png" alt="Drawing" style="width: 400px;"/></p></center>
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?\text{Single&space;Point&space;Crossover}" title="\text{Single Point Crossover}" />
+<br><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/SinglePoint.png" alt="Drawing" width="400"/></p></p>
 
 <a id='Uniform'></a>
 <p style="margin-left: 40px"> <b>5.4.2. Uniform crossover</b></p>
 <p style="margin-left: 40px"> <a href='#top'> Return to top </a></p>
 <p style="margin-left: 40px">It has been proven in the literature that adding more crossover points helps the algorithms uptil a certain point $\text{(DeJong, 75 )}$. In general, more than two crossover points reduces performance. The reason for this is that the building blocks will of course be disrupted more often, however there is a tradeoff, it will help adding diversity and exploring further the search space.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/UniformCrossover.png" alt="Drawing" style="width: 500px;" class="center"></p></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/UniformCrossover.png" alt="Drawing" width="500" class="center"></p></p>
 
 <a id='Mutation'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>5.6. Mutation</b></p>
@@ -409,7 +409,7 @@ The idea is for individuals with greater level of adaptation (i.e. fitness) to b
 <p style="margin-left: 20px">The mutation operator modifies the gene of the individuals stochastically. The goal of this operator is to increase the search space in which the algorithm is looking for the solution. 
 Use of mutation operators are usually kept below p=0.05, as they introduce randomness to the algorithm.
 
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Mutation.png" alt="Drawing" style="width: 500px;"/></p></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Mutation.png" alt="Drawing" width="500"/></p></p>
 <a id='Replacement'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>5.7. Replacement</b></p>
 <p style="margin-left: 20px"> <a href='#top'> Return to top </a>
@@ -425,18 +425,18 @@ Once new individuals have been generated, it remains to see, which ones are kept
 <p style="margin-left: 40px"> An elitist replacement operator is completely deterministic. It chooses only the individuals with the highest fitness among previous and current generation of individuals, to create next iteration’s population.
 The rest are eliminated.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Elitist.png" alt="Drawing" style="width: 650px;" class="center"></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Elitist.png" alt="Drawing" width="650"></p>
 </p>
 <a id='SinglePoint'></a>
 <p style="margin-left: 40px"> <b>5.7.2. Simple Reduction</b></p>
 <p style="margin-left: 40px"> <a href='#top'> Return to top </a></p>
 <p style="margin-left: 40px"> A simple reduction replacement operator is stochastic. It chooses individuals with the lower fitness to be replaced with higher probability, among previous and current generation of individuals.
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Simplereduction.png" alt="Drawing" style="width: 650px;"/>
-</center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Simplereduction.png" alt="Drawing" width="650"/>
+</p>
 </p>
 <br>
-<center><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/replacement.png" alt="Drawing" style="width: 450px;"/></center>
+<p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/replacement.png" alt="Drawing" width="450"/></p>
 
 </p>
 
@@ -451,15 +451,15 @@ The rest are eliminated.
 
 <p style="margin-left: 20px">Regarding convergence, there are various metrics that study convergence of Genetic Algorithms [5]. Two common metrics  are:
 
-<center>
+<p align="center">
 <img src="https://latex.codecogs.com/gif.latex?\textrm{Offline&space;measure}\hspace{0.5cm}&space;m^{}(T)=\dfrac{1}{T}\sum_{t=1}^{T}(f(I^{}(t))" title="\textrm{Offline measure}\hspace{0.5cm} m^{}(T)=\dfrac{1}{T}\sum_{t=1}^{T}(f(I^{}(t))" />
-</center>
+</p>
 
 <p style="margin-left: 20px">Where <img src="https://latex.codecogs.com/gif.latex?f(I^{*}(t))" title="f(I^{*}(t))" /> is the fitness of the fittest individual at generation t.
 Therefore, offline measurement can be interpreted as a progress indicator. After a number of generations, this measurement can be near the optima or not, however the velocity of when this happens indicates the ability of the algorithm to establish itself near the solution. It can serve the purpose of being used as a stopping criteria (i.e. when difference between generations is close).
 
-<center>
-<img src="https://latex.codecogs.com/gif.latex?\textrm{Online&space;measure}\hspace{0.7cm}&space;m(T)=\dfrac{1}{T}\sum_{t=1}^{T}F(t)" title="\textrm{Online measure}\hspace{0.7cm} m(T)=\dfrac{1}{T}\sum_{t=1}^{T}F(t)" /></center>
+<p align="center">
+<img src="https://latex.codecogs.com/gif.latex?\textrm{Online&space;measure}\hspace{0.7cm}&space;m(T)=\dfrac{1}{T}\sum_{t=1}^{T}F(t)" title="\textrm{Online measure}\hspace{0.7cm} m(T)=\dfrac{1}{T}\sum_{t=1}^{T}F(t)" /></p>
 
 <p style="margin-left: 20px">Online measurement is defined as the mean, for the objective function, till evaluation. Where F(t) is the mean of fitness of all individuals available at generation t.
 
