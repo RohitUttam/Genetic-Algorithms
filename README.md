@@ -128,7 +128,7 @@ A notable real-life application of Genetic Algorithms (GA) lead to the creation 
 <br>
 <br>
 <a id='Intro'></a>
-<p style="margin-left: 5px; font-size: 1.4em"> <b>2. Introduction to optimization</b></p>
+<p style="margin-left: 5px; " font-size="1.4"> <b>2. Introduction to optimization</b></p>
 <hr style="height:1.5px;border-width:0;color:#bfc6c7;background-color:#bfc6c7;width:100%">
 <br><a href='#top'> Return to top </a>
 <br>
@@ -188,7 +188,7 @@ Different solutions can be encoded by the same symbols.
 <br>
 <p align="center"><img src="https://raw.githubusercontent.com/RohitUttam/Genetic-Algorithms/master/images/Redundancy.png" alt="Drawing" width="200"/></p>
 
-<a id='explorationexploitation'></a>
+<a id='explorationexplotation'></a>
 <p style="margin-left: 20px; font-size: 1.4em"> <b>2.5. Exploration vs Exploitation </b></p>
 <p style="margin-left: 20px"> <a href='#top'> Return to top </a></p>
 <p style="margin-left: 20px"><b>Exploitation (local search):</b><br>Consists of sampling a limited (but already identified as promising) region of the search space with the hope of improving an existing solution. This operation, then, tries to intensify (refine) the search in the neighbourhood of the existing solution.
