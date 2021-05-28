@@ -41,7 +41,6 @@
 <br>
 <a href='#Biblio'> Bibliography </a>
 <br>
-
 <br>
 </p>
 
@@ -53,8 +52,8 @@
 <a id='Motivation'></a>
 <p style="margin-left: 5px; font-size: 1.4em"> <b> 1. Motivation</b></p>
 <hr style="height:1.5px;border-width:0;color:#bfc6c7;background-color:#bfc6c7;width:100%">
-<br>
 <a href='#top'> Return to top </a>
+<br>
 
 <p>A Genetic Algorithm (GA)'s goal is to search and optimize. To find possible solutions to a given problem.</p>
 
