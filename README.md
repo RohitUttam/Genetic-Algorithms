@@ -2,10 +2,11 @@
 <!-- Author: Rohit Uttamchandani -->
 <!-- Title: Introduction to Genetic Algorithms -->
 <!-- Date: 28.05.2021 -->
+
+<br>
+<br>
+# Introduction to Genetic Algorithms #
 <dl>
-<br>
-<br>
-# Introduction to Genetic Algorithms
 <hr style="height:2px;border-width:0;color:#bfc6c7;background-color:#bfc6c7;width:70%"></hr>
 <br>
 <a id='top'></a>
@@ -15,28 +16,28 @@
 <br>
 <br>
 <a href='#Intro'> 2. Introduction to optimization </a>  
-<p style="margin-left: 40px"><a href='#globallocal'>  &nbsp;&nbsp; 2.1. Local vs. global optima  </a> </p>
-<p style="margin-left: 40px"><a href='#searchspace'>  &nbsp;&nbsp; 2.2. Search space </a> </p>
-<p style="margin-left: 40px"><a href='#solutionspace'>  &nbsp;&nbsp; 2.3. Solution space </a> </p>
-<p style="margin-left: 40px"><a href='#ambiguityredundancy'>  &nbsp;&nbsp; 2.4. Ambiguity vs. Redundancy </a> </p>
-<p style="margin-left: 40px"><a href='#explorationexploitation'>  &nbsp;&nbsp; 2.5. Exploration vs. Exploitation </a> </p>
+<p style="margin-left: 40px"><a href='#globallocal'>   &nbsp;&nbsp;&nbsp; 2.1. Local vs. global optima  </a> </p>
+<p style="margin-left: 40px"><a href='#searchspace'>   &nbsp;&nbsp;&nbsp; 2.2. Search space </a> </p>
+<p style="margin-left: 40px"><a href='#solutionspace'>   &nbsp;&nbsp;&nbsp; 2.3. Solution space </a> </p>
+<p style="margin-left: 40px"><a href='#ambiguityredundancy'>   &nbsp;&nbsp;&nbsp; 2.4. Ambiguity vs. Redundancy </a> </p>
+<p style="margin-left: 40px"><a href='#explorationexploitation'>   &nbsp;&nbsp;&nbsp; 2.5. Exploration vs. Exploitation </a> </p>
 <br>
 <a href='#Methods'> 3. Exact vs. approximate methods </a> 
 <br>
 <br>
 <a href='#GeneticAlgorithms'> 4. Genetic Algorithms </a> 
-<p style="margin-left: 40px"><a href='#Basics'>  &nbsp;&nbsp; 4.1. Basic concepts </a> </p>
-<p style="margin-left: 40px"><a href='#Lifecycle'>  &nbsp;&nbsp; 4.2. Evolutionary lifecycle </a> </p>
-<p style="margin-left: 40px"><a href='#ProsCons'>  &nbsp;&nbsp; 4.3. Pros and Cons </a> </p>
+<p style="margin-left: 40px"><a href='#Basics'>   &nbsp;&nbsp;&nbsp; 4.1. Basic concepts </a> </p>
+<p style="margin-left: 40px"><a href='#Lifecycle'>   &nbsp;&nbsp;&nbsp; 4.2. Evolutionary lifecycle </a> </p>
+<p style="margin-left: 40px"><a href='#ProsCons'>   &nbsp;&nbsp;&nbsp; 4.3. Pros and Cons </a> </p>
 <br>
 <a href='#Game'> 5. Example: Target Sum Game </a>
-<p style="margin-left: 40px"><a href='#Encoding'>  &nbsp;&nbsp; 5.1. Encoding </a> </p>
-<p style="margin-left: 40px"><a href='#Initialization'>  &nbsp;&nbsp; 5.2. Initialization </a> </p>
-<p style="margin-left: 40px"><a href='#Fitness'>  &nbsp;&nbsp; 5.3. Fitness </a> </p>
-<p style="margin-left: 40px"><a href='#Selection'>  &nbsp;&nbsp; 5.4. Selection </a> </p>
-<p style="margin-left: 40px"><a href='#Crossover'>  &nbsp;&nbsp; 5.5. Crossover </a> </p>
-<p style="margin-left: 40px"><a href='#Mutation'>  &nbsp;&nbsp; 5.6. Mutation </a> </p>
-<p style="margin-left: 40px"><a href='#Replacement'>  &nbsp;&nbsp; 5.7. Replacement </a> </p>
+<p style="margin-left: 40px"><a href='#Encoding'>   &nbsp;&nbsp;&nbsp; 5.1. Encoding </a> </p>
+<p style="margin-left: 40px"><a href='#Initialization'>   &nbsp;&nbsp;&nbsp; 5.2. Initialization </a> </p>
+<p style="margin-left: 40px"><a href='#Fitness'>   &nbsp;&nbsp;&nbsp; 5.3. Fitness </a> </p>
+<p style="margin-left: 40px"><a href='#Selection'>   &nbsp;&nbsp;&nbsp; 5.4. Selection </a> </p>
+<p style="margin-left: 40px"><a href='#Crossover'>   &nbsp;&nbsp;&nbsp; 5.5. Crossover </a> </p>
+<p style="margin-left: 40px"><a href='#Mutation'>   &nbsp;&nbsp;&nbsp; 5.6. Mutation </a> </p>
+<p style="margin-left: 40px"><a href='#Replacement'>   &nbsp;&nbsp;&nbsp; 5.7. Replacement </a> </p>
 <p>
 <br>
 <a href='#Biblio'> Bibliography </a>
