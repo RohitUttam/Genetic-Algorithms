@@ -2,11 +2,10 @@
 <!-- Author: Rohit Uttamchandani -->
 <!-- Title: Introduction to Genetic Algorithms -->
 <!-- Date: 28.05.2021 -->
-
-<br>
-<br>
-# Introduction to Genetic Algorithms #
 <dl>
+<br>
+<br>
+<p align="center"><b><span font-size="3"> Introduction to Genetic Algorithms</b></p>
 <hr style="height:2px;border-width:0;color:#bfc6c7;background-color:#bfc6c7;width:70%"></hr>
 <br>
 <a id='top'></a>
