@@ -2,7 +2,7 @@
 <!-- Author: Rohit Uttamchandani -->
 <!-- Title: Introduction to Genetic Algorithms -->
 <!-- Date: 28.05.2021 -->
-
+<dl>
 <br>
 <br>
 <center><b><span style="font-size:3em"> Introduction to Genetic Algorithms</b></center>
@@ -489,3 +489,5 @@ Therefore, offline measurement can be interpreted as a progress indicator. After
 <!-- Author: Rohit Uttamchandani -->
 <!-- Title: Introduction to Genetic Algorithms -->
 <!-- Date: 28.05.2021 -->
+
+</dl>
